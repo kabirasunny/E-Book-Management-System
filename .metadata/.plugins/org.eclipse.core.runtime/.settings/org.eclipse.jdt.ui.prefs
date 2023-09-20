@@ -1,0 +1,12 @@
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="com.dao.UserDao"><rhs name\="com.dao.UserDaoImpl"/></lhs><lhs name\="com.dao.UserDaoImpl"><rhs name\="com.dao.UserDaoImpl"/></lhs><lhs name\="com.dao.BookDao"><rhs name\="com.dao.BookDaoImpl"/></lhs><lhs name\="com.dao.BookDaoImpl"><rhs name\="com.dao.BookDaoImpl"/></lhs><lhs name\="com.entity.BookDetails"><rhs name\="com.entity.BookDetails"/></lhs><lhs name\="com.entity.Cart"><rhs name\="com.entity.Cart"/></lhs><lhs name\="com.dao.CartDao"><rhs name\="com.dao.CartDaoImpl"/></lhs><lhs name\="com.dao.CartDaoImpl"><rhs name\="com.dao.CartDaoImpl"/></lhs><lhs name\="com.dao.BookOrderDao"><rhs name\="com.dao.BookOrderImpl"/></lhs><lhs name\="com.dao.BookOrderImpl"><rhs name\="com.dao.BookOrderImpl"/></lhs><lhs name\="com.entity.Book_Order"><rhs name\="com.entity.Book_Order"/></lhs><lhs name\="java.util.Collection"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.lang.Iterable"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.util.List"><rhs name\="java.util.ArrayList"/></lhs></history>
+content_assist_number_of_computers=17
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+org.eclipse.jdt.internal.ui.navigator.layout=2
+org.eclipse.jdt.internal.ui.navigator.librariesnode=true
+org.eclipse.jdt.ui.formatterprofiles.version=22
+spelling_locale_initialized=true
+typefilter_migrated_2=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

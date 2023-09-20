@@ -1,0 +1,15 @@
+package com.dao;
+
+import java.sql.Connection;
+
+public class BookOrderImpl implements BookOrderDao{
+	
+	private Connection conn;
+
+	public BookOrderImpl(Connection conn) {
+		super();
+		this.conn=conn;
+	}
+	
+	
+}
